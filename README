@@ -1,0 +1,3 @@
+Generate structured cuboid mesh by GMSH.
+    cuboid_iso.py: isometric mesh
+    cuboid_ansio.py: anisometric mesh
